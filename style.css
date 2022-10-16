@@ -1,6 +1,36 @@
-.form-group {
+.firm1 {
 
     padding: 5px;
     background-color: #f0da92;
 }
+.firm2 {
 
+    padding: 5px;
+    background-color: #f0da92;
+}
+.firm3 {
+
+    padding: 5px 5px;
+    background-color: #f0da92;
+}
+input {
+height: 36px;
+padding: 5px 5px 12px 5px;
+font-size: 26px;
+border-radius: 5px;
+border: 1px solid grey;
+width: 420px;
+}
+label {
+ position: relative;
+ top: 5px;
+ font-size: 21px;
+
+}
+.lead {
+font-size: 27px;
+}
+h1 {
+font-size: 200%;
+color: green;
+}
